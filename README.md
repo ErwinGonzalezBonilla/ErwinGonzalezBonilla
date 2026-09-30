@@ -25,7 +25,7 @@ Mi tesis consistió en el desarrollo de una página web para una academia de lut
 
 🟣 n8n
 ⚫ OpenAI
-🟠 Claude
+🟠 Claude 
 🔵 Make
 
 ---

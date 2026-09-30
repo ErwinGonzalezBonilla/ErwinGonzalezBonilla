@@ -19,6 +19,17 @@ Mi tesis consistió en el desarrollo de una página web para una academia de lut
 
 # 🛠️ Tech Stack
 
+---
+
+## 🤖 Inteligencia Artificial & Automatización
+
+🟣 n8n
+⚫ OpenAI
+🟠 Claude
+🔵 Make
+
+---
+
 ## 🎨 Frontend
 🟠 HTML  
 🔵 CSS  

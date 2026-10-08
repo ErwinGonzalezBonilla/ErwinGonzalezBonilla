@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=24&duration=2800&pause=800&color=FF6B9D&center=true&vCenter=true&width=700&lines=🚀+I+build+web+apps+with+React+and+Python;🤖+I+add+AI+to+everything+I+touch;📦+15%2B+years+running+real+businesses;🎈+From+Caracas+to+Santiago+to+Madrid;🤝+Looking+for+my+first+dev+team" alt="Typing SVG"/>
+  <img src="./typing-en.svg" alt="Typing animation" width="720"/>
 </p>
 
 <p align="center">

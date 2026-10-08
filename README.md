@@ -1,83 +1,58 @@
-<!-- ===================== CABECERA ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A3A,100:4C6488&height=220&section=header&text=Erwin%20Gonz%C3%A1lez%20Bonilla&fontSize=44&fontColor=ECEAE4&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20React%20%C2%B7%20Python%20%C2%B7%20IA&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Erwin González Bonilla"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=230&section=header&text=¡Hola!%20Soy%20Erwin%20👋&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20·%20React%20·%20Python%20·%20IA&descSize=20&descAlignY=58&animation=twinkling" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/erwingonzalezbonilla">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=4C6488&center=true&vCenter=true&width=640&lines=Construyo+apps+web+con+React+y+Python+%F0%9F%92%BB;Integro+IA%3A+chatbots%2C+agentes+y+automatizaciones+%F0%9F%A4%96;15%2B+a%C3%B1os+gestionando+negocios+%F0%9F%93%A6;Buscando+mi+primer+puesto+como+developer+%F0%9F%9A%80" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=24&duration=2800&pause=800&color=FF6B9D&center=true&vCenter=true&width=700&lines=🚀+Construyo+apps+web+con+React+y+Python;🤖+Le+pongo+IA+a+todo+lo+que+toco;📦+15%2B+años+gestionando+negocios+reales;🎈+De+Caracas+a+Santiago+y+de+ahí+a+Madrid;🤝+Busco+mi+primer+equipo+como+developer" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/erwingonzalezbonilla"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:alexcultural@gmail.com"><img src="https://img.shields.io/badge/Email-Escríbeme-1B2A3A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/📍_Madrid-Abierto_a_ofertas-4C6488?style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/erwingonzalezbonilla"><img src="https://img.shields.io/badge/LinkedIn-¡Conectemos!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:alexcultural@gmail.com"><img src="https://img.shields.io/badge/Email-Escríbeme-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/📍_Madrid-Abierto_a_ofertas-2ECC71?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=ErwinGonzalezBonilla&label=Visitas&color=blueviolet&style=for-the-badge" alt="visitas"/>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🧠 Sobre mí
 
-<table>
-<tr>
-<td width="60%" valign="top">
+🟣 Programo desde **2024** y en **2025** completé el bootcamp **Full Stack Developer en 4Geeks Academy (España)** 🎓
 
-Soy **desarrollador Full Stack** y me especializo en **integrar inteligencia artificial en aplicaciones web**: chatbots con la API de OpenAI, agentes y flujos automatizados con **n8n**.
+🟠 Me encanta **meterle IA a las aplicaciones**: chatbots con OpenAI, agentes y automatizaciones con **n8n** 🤖
 
-Antes de programar pasé **más de 15 años gestionando inventario, compras, proveedores y equipos**. Hoy uso esa experiencia para construir software que resuelve problemas reales de negocio.
+🔵 Antes de programar pasé **más de 15 años gestionando inventario, proveedores y equipos**. Sé lo que un negocio necesita porque lo viví 📦
 
-- 🎓 **Full Stack Developer** · 4Geeks Academy España (2025)
-- 🤖 **Agentes de IA y Automatización con n8n** · Udemy (2026)
-- 🏛️ **Licenciado en Gestión de Proyectos Culturales** · UCV, Venezuela
-- 🗣️ Español nativo · Inglés B1
+🟢 Soy **Licenciado en Gestión de Proyectos Culturales (Venezuela)**. Mi tesis fue una web para una academia de lutería: ¡ahí empezó todo! 🎻
 
-</td>
-<td width="40%" valign="top">
-
-```js
-const erwin = {
-  ubicacion: "Madrid 🇪🇸",
-  rol: "Full Stack Developer",
-  stack: ["React", "Python", "Flask", "FastAPI"],
-  ia: ["OpenAI", "Claude", "n8n"],
-  construyendo: "MyStock 📦",
-  buscando: "Mi primer equipo 🤝",
-};
-```
-
-</td>
-</tr>
-</table>
+🟡 Ahora estoy buscando **mi primer puesto como developer** para aportar, aprender y crecer en equipo 🌱
 
 ---
 
-## 🚀 Proyectos destacados
+## 🎨 Mis proyectos
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 📦 [MyStock](https://github.com/ErwinGonzalezBonilla/MyStock)
-![Estado](https://img.shields.io/badge/estado-en_desarrollo-F2C35B?style=flat-square)
-![Tipo](https://img.shields.io/badge/SaaS-IA-4C6488?style=flat-square)
+<img src="https://img.shields.io/badge/🚧_En_desarrollo-FFC93C?style=flat-square"/> <img src="https://img.shields.io/badge/🤖_SaaS_con_IA-9B59B6?style=flat-square"/>
 
-SaaS multiempresa para que pequeños negocios gestionen **inventario, punto de venta, compras y ventas**, con asistente de IA y automatizaciones.
+Mi proyecto más ambicioso: una plataforma para que pequeños negocios controlen **inventario, ventas, compras y punto de venta**, con un asistente de IA que te dice qué reponer 🧠
 
-`React` `FastAPI` `PostgreSQL` `JWT` `OpenAI` `n8n`
+⚛️ React · ⚡ FastAPI · 🐘 PostgreSQL · 🔐 JWT · 🤖 OpenAI · 🟣 n8n
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎈 [Ballonette](https://github.com/ErwinGonzalezBonilla/ballonette-react)
-![Estado](https://img.shields.io/badge/estado-en_producción-1F8A55?style=flat-square)
-![Tipo](https://img.shields.io/badge/cliente-real-4C6488?style=flat-square)
+<img src="https://img.shields.io/badge/✅_En_producción-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/💼_Cliente_real-FF6B9D?style=flat-square"/>
 
-Web para una empresa de eventos: galería por categorías, panel admin con subida a **Cloudinary** y **BalloonBot**, un chatbot con OpenAI.
+Web para una empresa de **globos y eventos** 🎉 Galería por categorías, panel admin para subir fotos a Cloudinary y **BalloonBot**, un chatbot con OpenAI que atiende a los clientes 💬
 
-`React` `Vite` `React Router` `Cloudinary` `OpenAI`
+⚛️ React · ⚡ Vite · ☁️ Cloudinary · 🤖 OpenAI
 
-👉 **[Ver demo](https://ballonette-react.vercel.app)**
+👉 **[¡Pruébala aquí!](https://ballonette-react.vercel.app)**
 
 </td>
 </tr>
@@ -85,38 +60,35 @@ Web para una empresa de eventos: galería por categorías, panel admin con subid
 <td width="50%" valign="top">
 
 ### 🐾 [Patitas Club](https://github.com/4GeeksAcademy/PatitasClub)
-![Estado](https://img.shields.io/badge/estado-terminado-1F8A55?style=flat-square)
-![Tipo](https://img.shields.io/badge/proyecto-en_equipo-4C6488?style=flat-square)
+<img src="https://img.shields.io/badge/✅_Terminado-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/👥_En_equipo-3498DB?style=flat-square"/>
 
-E-commerce para mascotas, proyecto final del bootcamp. API REST en Flask, login con **JWT** y pagos con **Stripe**. **411 commits** en equipo.
+Tienda online para **mascotas** 🐶🐱 Proyecto final del bootcamp con login JWT, API en Flask y pagos con **Stripe** 💳 ¡**411 commits** en equipo!
 
-`React` `Python` `Flask` `SQLAlchemy` `JWT` `Stripe`
+⚛️ React · 🐍 Python · 🌶️ Flask · 🔐 JWT · 💳 Stripe
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎤 [Kevin Alva · Web oficial](https://github.com/ErwinGonzalezBonilla/kevin-alva-web)
-![Estado](https://img.shields.io/badge/estado-en_producción-1F8A55?style=flat-square)
-![Tipo](https://img.shields.io/badge/cliente-real-4C6488?style=flat-square)
+<img src="https://img.shields.io/badge/✅_En_producción-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/💼_Cliente_real-FF6B9D?style=flat-square"/>
 
-Web de un artista musical: agenda que **oculta sola los conciertos pasados**, discografía, Spotify, YouTube y booking. El cliente lo edita todo desde un bloque de configuración.
+Web para un **artista musical** 🎶 Agenda de conciertos que **oculta sola las fechas pasadas**, discografía, Spotify, YouTube y booking. ¡El cliente la actualiza sin tocar código! 🎸
 
-`HTML` `CSS` `JavaScript` `Vercel`
+🟠 HTML · 🔵 CSS · 🟡 JavaScript · ▲ Vercel
 
-👉 **[Ver web](https://kevin-alva-web.vercel.app)**
+👉 **[¡Visítala aquí!](https://kevin-alva-web.vercel.app)**
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td colspan="2" valign="top" align="center">
 
-### 🎂 [Invitación digital de cumpleaños](https://github.com/ErwinGonzalezBonilla/cumple-salvador)
-![Estado](https://img.shields.io/badge/usada_en-un_evento_real-1F8A55?style=flat-square)
-![Tipo](https://img.shields.io/badge/mobile-first-4C6488?style=flat-square)
+### 🎂 [Invitación de cumpleaños](https://github.com/ErwinGonzalezBonilla/cumple-salvador)
+<img src="https://img.shields.io/badge/🎉_Usada_en_una_fiesta_real-FF8C42?style=flat-square"/> <img src="https://img.shields.io/badge/📱_Mobile_first-3498DB?style=flat-square"/>
 
-Invitación web pensada para compartirse por WhatsApp: datos del evento, ubicación en Google Maps y **confirmación de asistencia en un toque**. Animaciones CSS y vista previa Open Graph.
+Invitación web con **globos y confeti animados** 🎈🎊 Se comparte por WhatsApp, abre la ubicación en Google Maps y los invitados **confirman con un solo toque** ✅
 
-`HTML` `CSS` `JavaScript` `Open Graph` `WhatsApp`
+🟠 HTML · 🔵 CSS · 🟡 JavaScript · 💬 WhatsApp
 
 </td>
 </tr>
@@ -124,40 +96,72 @@ Invitación web pensada para compartirse por WhatsApp: datos del evento, ubicaci
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Mi caja de herramientas
 
-<p align="center"><b>🤖 IA y automatización</b></p>
-<p align="center">
+### 🤖 Inteligencia Artificial & Automatización
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white"/>
 </p>
 
-<p align="center"><b>💻 Desarrollo, datos y despliegue</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,python,flask,fastapi,nodejs,postgres,mysql,git,github,vercel&perline=8" alt="Tech stack"/>
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+### 🗄️ Datos & Deploy
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 Mi actividad en GitHub
+## 📊 Mis números en GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ErwinGonzalezBonilla&show_icons=true&hide_border=true&bg_color=1B2A3A&title_color=ECEAE4&text_color=DCE2EA&icon_color=9FB4D3&locale=es" alt="GitHub stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=ErwinGonzalezBonilla&hide_border=true&background=1B2A3A&ring=9FB4D3&fire=F2C35B&currStreakLabel=ECEAE4&sideLabels=DCE2EA&currStreakNum=ECEAE4&sideNums=ECEAE4&dates=9BA6B5&locale=es" alt="GitHub streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ErwinGonzalezBonilla&show_icons=true&theme=radical&hide_border=true&locale=es" alt="GitHub stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=ErwinGonzalezBonilla&theme=radical&hide_border=true&locale=es" alt="Racha"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ErwinGonzalezBonilla&hide_border=true&bg_color=1B2A3A&color=DCE2EA&line=9FB4D3&point=F2C35B&area=true&area_color=4C6488" alt="Gráfico de contribuciones"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ErwinGonzalezBonilla&theme=react-dark&hide_border=true&area=true" alt="Gráfico de actividad"/>
 </p>
 
 ---
 
+## 🌱 Ahora mismo...
+
+✨ Construyendo **MyStock** paso a paso
+📚 Aprendiendo agentes de IA con n8n
+☕ Tomando demasiado café
+🤝 Buscando mi primera oportunidad como developer, **¡hablemos!**
+
+---
+
 <p align="center">
-  <i>“Gestioné el stock de una tienda durante cuatro años. Ahora construyo el software que me habría gustado tener.”</i>
+  💡 <i>“Construyendo soluciones, escribiendo código y creciendo profesionalmente.”</i> 💡
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C6488,100:1B2A3A&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer" width="100%"/>
 

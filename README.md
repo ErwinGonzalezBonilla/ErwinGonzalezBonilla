@@ -1,4 +1,6 @@
-   <img src="https://github.com/user-attachments/assets/xxxx..." alt="Erwin A. González Bonilla · Desarrollador de IA y Full Stack" width="100%"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/82a2556b-f9eb-4de1-a942-28ae4f4b84dc" alt="Erwin A. González Bonilla · Desarrollador de IA y Full Stack" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/ErwinGonzalezBonilla">

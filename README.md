@@ -1,55 +1,119 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=39D353&center=true&vCenter=true&width=700&height=60&lines=%24+whoami;Erwin+Gonz%C3%A1lez+%F0%9F%91%8B;Full+Stack+%C2%B7+IA+%C2%B7+Automatizaci%C3%B3n" alt="whoami"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Erwin%20Gonz%C3%A1lez&fontSize=50&fontColor=FFFFFF&animation=twinkling&desc=Full%20Stack%20%C2%B7%20IA%20%C2%B7%20Automatizaci%C3%B3n&descAlignY=72&descSize=18" width="100%"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/erwingonzalezbonilla"><img src="https://img.shields.io/badge/linkedin-0D1117?style=flat-square&logo=linkedin&logoColor=39D353"/></a>
-  <a href="mailto:alexcultural@gmail.com"><img src="https://img.shields.io/badge/email-0D1117?style=flat-square&logo=gmail&logoColor=39D353"/></a>
-  <a href="https://www.kevinalvamusic.com"><img src="https://img.shields.io/badge/live_project-0D1117?style=flat-square&logo=vercel&logoColor=39D353"/></a>
-  <img src="https://img.shields.io/badge/status-open_to_work-39D353?style=flat-square&labelColor=0D1117"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=%E2%9A%9B%EF%B8%8F+React+%2B+%F0%9F%90%8D+Python;%F0%9F%A4%96+IA+aplicada+a+negocios+reales;%E2%9A%99%EF%B8%8F+Automatizaci%C3%B3n+con+n8n;%F0%9F%9A%80+Disponible+para+trabajar" alt="Texto animado"/>
 </p>
 
-```bash
-erwin@madrid:~$ cat sobre_mi.txt
-```
-> 👨‍💻 Construyo aplicaciones web con **React + Python** y les integro **IA**.\
-> 📦 Antes de programar: **15+ años** gestionando inventario, compras y proveedores en 🇻🇪 y 🇨🇱.\
-> 🎯 Busco mi **primer rol como developer** · 📍 Madrid / remoto · 🗣️ ES nativo · EN B1
-
-```bash
-erwin@madrid:~$ ls ~/proyectos
-```
-
-| | Proyecto | Qué hace | Estado |
-|:---:|:---|:---|:---:|
-| 📦 | **[MyStock](https://github.com/ErwinGonzalezBonilla/MyStock)** | SaaS de inventario, TPV y compras con asistente de IA que sugiere qué reponer | 🚧 |
-| 🎤 | **[Kevin Alva](https://github.com/ErwinGonzalezBonilla/kevin-alva-web)** | Web de artista con entradas: Stripe → QR firmado → validación en puerta · [web](https://www.kevinalvamusic.com) | ✅ |
-| 🎈 | **[Ballonette](https://github.com/ErwinGonzalezBonilla/ballonette-react)** | Web de eventos con panel admin, Cloudinary y chatbot con OpenAI · [demo](https://ballonette-react.vercel.app) | ✅ |
-| 🐾 | **[Patitas Club](https://github.com/4GeeksAcademy/PatitasClub)** | E-commerce en equipo: Flask, JWT y Stripe · 411 commits | ✅ |
-| 💌 | **[Invitaciones](https://github.com/ErwinGonzalezBonilla/generador-invitaciones)** | Generador sin backend, se comparte por WhatsApp · [probar](https://generador-invitaciones.vercel.app) | ✅ |
-| 🐶 | **Don Dog** | Tienda para pet shop con stock y asistente de IA | 🚧 |
-
-```bash
-erwin@madrid:~$ which stack
-```
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,js,python,fastapi,flask,nodejs,postgres,git,vercel&theme=dark"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/erwingonzalezbonilla"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:alexcultural@gmail.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-🤖 `OpenAI` `Claude` `Gemini` `n8n` `Make` &nbsp; ☁️ `Stripe` `Cloudinary`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```bash
-erwin@madrid:~$ git log --oneline carrera
-```
-```
-🤖 2026  Agentes de IA y n8n · MyStock y clientes reales
-🎓 2025  Full Stack Developer · 4Geeks Academy
-💻 2024  Desarrollo web · Enclave Formación
-🏪 2018  Manager de tienda · Santiago de Chile
-🎻 2004  Gestión sociocultural · Caracas
-```
+### 👋 Hola, soy Erwin
+Desarrollador **Full Stack** en 📍 Madrid. Construyo webs con React y Python y les integro **IA**.
 
-```bash
-erwin@madrid:~$ echo $CONTACTO
-```
-💬 ¿Proyecto o vacante? **[LinkedIn](https://www.linkedin.com/in/erwingonzalezbonilla)** · **[alexcultural@gmail.com](mailto:alexcultural@gmail.com)**
+Vengo de **15+ años en compras, stock y proveedores** 📦, así que pienso el software desde el negocio.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ En resumen
+- 🎯 Buscando mi **primer rol como developer**
+- 🌍 Madrid · abierto a remoto
+- ☁️ Preparando **AWS Cloud Practitioner**
+- 🗣️ Español nativo · Inglés B1
+
+</td>
+</tr>
+</table>
+
+## 🚀 Proyectos
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📦 [MyStock](https://github.com/ErwinGonzalezBonilla/MyStock)
+`🚧 En desarrollo` `SaaS` `IA`
+
+Inventario, punto de venta, compras y proveedores en un solo sitio, con un asistente que sugiere qué reponer.
+
+<sub>React · FastAPI · PostgreSQL · OpenAI · n8n</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎤 [Kevin Alva](https://github.com/ErwinGonzalezBonilla/kevin-alva-web)
+`✅ En producción` `Cliente real`
+
+Web de artista con venta de entradas: 💳 Stripe → 🎟️ QR firmado → 📱 validación en puerta.
+
+<sub>JavaScript · Node.js · Stripe · Vercel · [🌐 Ver web](https://www.kevinalvamusic.com)</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎈 [Ballonette](https://github.com/ErwinGonzalezBonilla/ballonette-react)
+`✅ Entregado` `Cliente real` `IA`
+
+Web de eventos con galería, panel de administración y 🤖 BalloonBot, un chatbot con OpenAI.
+
+<sub>React · Vite · Cloudinary · OpenAI · [🌐 Demo](https://ballonette-react.vercel.app)</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🐾 [Patitas Club](https://github.com/4GeeksAcademy/PatitasClub)
+`✅ Terminado` `Equipo · 411 commits`
+
+E-commerce para mascotas con API REST, login con JWT y pagos con Stripe.
+
+<sub>React · Flask · SQLAlchemy · Stripe</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💌 [Invitaciones](https://github.com/ErwinGonzalezBonilla/generador-invitaciones)
+`✅ Online` `Uso público`
+
+Rellenas, previsualizas y compartes por WhatsApp. ⚡ Sin backend: todo viaja en la URL.
+
+<sub>HTML · CSS · JavaScript · [🌐 Probar](https://generador-invitaciones.vercel.app)</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🐶 Don Dog
+`🚧 En desarrollo` `Cliente real` `IA`
+
+Tienda para un pet shop con control de stock y "El Don" 🤖, que recomienda productos según la mascota.
+
+<sub>Tienda online · Panel admin · Asistente IA</sub>
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Tecnologías
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,python,fastapi,flask,nodejs,postgres,mysql,git,github,vercel,postman&perline=15"/>
+</p>
+<p align="center">🤖 OpenAI · Claude · Gemini · n8n · Make &nbsp;|&nbsp; ☁️ Stripe · Cloudinary</p>
+
+## 📈 GitHub
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ErwinGonzalezBonilla&show_icons=true&hide_border=true&theme=transparent&title_color=6366F1&icon_color=06B6D4&locale=es"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErwinGonzalezBonilla&layout=compact&hide_border=true&theme=transparent&title_color=6366F1&locale=es"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=100&section=footer" width="100%"/>

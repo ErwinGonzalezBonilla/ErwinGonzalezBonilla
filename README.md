@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://portafolio-erwin.vercel.app/"><img src="https://img.shields.io/badge/💼_PORTAFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=0D1117"/></a>
   <a href="https://www.linkedin.com/in/erwingonzalezbonilla"><img src="https://img.shields.io/badge/📡_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
   <a href="mailto:alexcultural@gmail.com"><img src="https://img.shields.io/badge/📨_Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF"/></a>
   <a href="https://www.kevinalvamusic.com"><img src="https://img.shields.io/badge/🛰️_Proyecto_en_vivo-0D1117?style=for-the-badge&logo=vercel&logoColor=00E5FF"/></a>
@@ -25,6 +26,7 @@ unidad:     ERWIN-01
 modelo:     Full Stack Developer · IA y Automatización
 base:       Madrid, España 🇪🇸  (remoto ✔)
 estado:     🟢 ONLINE · disponible para trabajar
+portafolio: portafolio-erwin.vercel.app
 idiomas:    [español: nativo, inglés: B1]
 experiencia_previa:
   - 15+ años en inventario, compras y proveedores
@@ -123,7 +125,7 @@ Web de eventos con 🖼️ galería, 🛠️ panel de administración y el bot �
 
 ![](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00E5FF) ![](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=00E5FF) ![](https://img.shields.io/badge/Cloudinary-0D1117?style=flat-square&logo=cloudinary&logoColor=00E5FF) ![](https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=00E5FF)
 
-[🌐 **Ver demo →**](https://ballonette-react.vercel.app)
+[🌐 **Ver web →**](https://ballonette.com)
 
 </td>
 </tr>
@@ -224,6 +226,7 @@ Tienda para un pet shop con catálogo, carrito, 📊 **control de stock y pedido
   <i>¿Tienes un proyecto o una vacante? Recibo señal.</i><br/><br/>
   <a href="https://www.linkedin.com/in/erwingonzalezbonilla"><img src="https://img.shields.io/badge/ENVIAR_SEÑAL_POR_LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/></a>
   <a href="mailto:alexcultural@gmail.com"><img src="https://img.shields.io/badge/ENVIAR_EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF"/></a>
+  <a href="https://portafolio-erwin.vercel.app/"><img src="https://img.shields.io/badge/💼_VER_PORTAFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00E5FF"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:003B46,100:0D1117&height=120&section=footer&text=fin%20de%20la%20transmisi%C3%B3n&fontSize=18&fontColor=00E5FF&fontAlignY=72" width="100%"/>

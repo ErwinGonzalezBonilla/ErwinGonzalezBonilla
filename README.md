@@ -1,167 +1,289 @@
+<!-- ════════════════════════ CABECERA ════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=230&section=header&text=Hi!%20I'm%20Erwin%20👋&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20·%20React%20·%20Python%20·%20AI&descSize=20&descAlignY=58&animation=twinkling" width="100%"/>
+  <img src="assets/header.svg" width="100%" alt="Erwin González · Automatización con n8n, IA aplicada y Full Stack"/>
 </p>
 
 <p align="center">
-  <img src="./typing-en.svg" alt="Typing animation" width="720"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=640&lines=Automatizo+procesos+de+negocio+con+n8n+%2B+IA;Despliego+agentes+de+IA+con+Claude+y+OpenAI;De+la+idea+al+prototipo+funcional+en+d%C3%ADas;Menos+trabajo+manual%2C+m%C3%A1s+negocio" alt="Automatizo procesos de negocio con n8n + IA"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/erwingonzalezbonilla"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:alexcultural@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/📍_Madrid-Open_to_work-2ECC71?style=for-the-badge"/>
+  <a href="https://portafolio-erwin.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=0B0F14" alt="Portafolio"/></a>
+  <a href="https://www.linkedin.com/in/erwingonzalezbonilla"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/></a>
+  <a href="mailto:alexcultural@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ErwinGonzalezBonilla&label=Visitas&color=161B22&style=for-the-badge" alt="Visitas"/>
 </p>
 
----
+<br/>
 
-## 🧠 About me
-
-🟣 I've been coding since **2024**, and in **2025** I completed the **Full Stack Developer bootcamp at 4Geeks Academy (Spain)** 🎓
-
-🟠 I love **adding AI to applications**: chatbots with OpenAI, AI agents and automations with **n8n** 🤖
-
-🔵 Before coding, I spent **15+ years managing inventory, suppliers and teams**. I know what a business needs because I've lived it 📦
-
-🟢 I hold a **Bachelor's degree in Cultural Project Management (Venezuela)**. My thesis was a website for a violin-making academy: that's where it all started! 🎻
-
-🟡 Now I'm looking for **my first developer role** where I can contribute, learn and grow with a team 🌱
-
-🗣️ Spanish (native) · English (B1)
-
----
-
-## 🎨 My projects
-
+<!-- ════════════════════════ SOBRE MÍ ════════════════════════ -->
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-### 📦 [MyStock](https://github.com/ErwinGonzalezBonilla/MyStock)
-<img src="https://img.shields.io/badge/🚧_In_progress-FFC93C?style=flat-square"/> <img src="https://img.shields.io/badge/🤖_AI_powered_SaaS-9B59B6?style=flat-square"/>
+### Sobre mí
 
-My most ambitious project: a platform that helps small businesses manage **inventory, sales, purchases and point of sale**, with an AI assistant that tells you what to restock 🧠
+Durante **15+ años** gestioné inventario, compras, proveedores y equipos en Caracas, Santiago y Madrid. Hice a mano cientos de tareas que hoy sé automatizar.
 
-⚛️ React · ⚡ FastAPI · 🐘 PostgreSQL · 🔐 JWT · 🤖 OpenAI · 🟣 n8n
+Ahora construyo las herramientas que me habría gustado tener: **flujos con n8n**, **agentes y asistentes con IA** y **webs a medida** para negocios reales. Detecto dónde se pierde el tiempo en una operación y lo convierto en un prototipo funcional en días, no en meses.
 
-</td>
-<td width="50%" valign="top">
-
-### 🎈 [Ballonette](https://github.com/ErwinGonzalezBonilla/ballonette-react)
-<img src="https://img.shields.io/badge/📦_Delivered_to_client-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/💼_Real_client-FF6B9D?style=flat-square"/>
-
-Website for a **balloon and events company** 🎉 Category-based gallery, admin panel that uploads photos to Cloudinary, and **BalloonBot**, an OpenAI chatbot that talks to customers 💬
-
-⚛️ React · ⚡ Vite · ☁️ Cloudinary · 🤖 OpenAI
-
-👉 **[Try it here!](https://ballonette-react.vercel.app)**
+**Busco:** rol de *AI Automation / AI Builder* en un equipo que quiera mover rápido. Presencial en Madrid o remoto.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-### 🐾 [Patitas Club](https://github.com/4GeeksAcademy/PatitasClub)
-<img src="https://img.shields.io/badge/✅_Completed-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/👥_Team_project-3498DB?style=flat-square"/>
-
-Online **pet store** 🐶🐱 Bootcamp final project with JWT login, a Flask REST API and **Stripe** payments 💳 **411 commits** as a team!
-
-⚛️ React · 🐍 Python · 🌶️ Flask · 🔐 JWT · 💳 Stripe
-
-</td>
-<td width="50%" valign="top">
-
-### 🎤 [Kevin Alva · Website + ticket sales](https://github.com/ErwinGonzalezBonilla/kevin-alva-web)
-<img src="https://img.shields.io/badge/📦_Delivered_·_Live-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/💳_Stripe_payments-635BFF?style=flat-square"/>
-
-Official website for a **music artist** 🎶 on his own domain, with tour dates, discography, Spotify and YouTube. Plus a **ticketing system**: fans pay with **Stripe** (card, Apple Pay, Google Pay), get a ticket with a **signed QR code** 🎟️ and staff scan it at the door with their phone camera 📱
-
-🟡 JavaScript · 🟢 Node.js · ▲ Vercel Functions · 💳 Stripe Checkout · 🔐 HMAC-SHA256 · 📷 jsQR
-
-👉 **[kevinalvamusic.com](https://www.kevinalvamusic.com)**
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" align="center">
-
-### 🎂 [Birthday invitation](https://github.com/ErwinGonzalezBonilla/cumple-salvador)
-<img src="https://img.shields.io/badge/🎉_Used_at_a_real_party-FF8C42?style=flat-square"/> <img src="https://img.shields.io/badge/📱_Mobile_first-3498DB?style=flat-square"/>
-
-A web invitation with **animated balloons and confetti** 🎈🎊 Shared via WhatsApp, it opens the location in Google Maps and guests **RSVP with a single tap** ✅
-
-🟠 HTML · 🔵 CSS · 🟡 JavaScript · 💬 WhatsApp
+```ts
+const erwin = {
+  base:      "Madrid · presencial o remoto",
+  foco:      ["n8n", "agentes de IA", "React", "Python"],
+  día_a_día: ["Claude", "Claude Code", "ChatGPT", "OpenAI API"],
+  idiomas:   { es: "nativo", en: "B1" },
+  formación: "4Geeks Academy · Full Stack (2025)",
+  próximo:   "AWS Cloud Practitioner",
+  estado:    "disponible ✔",
+};
+```
 
 </td>
 </tr>
 </table>
 
----
+<!-- ════════════════════════ CIFRAS ════════════════════════ -->
+<table align="center">
+  <tr>
+    <td align="center" width="190"><h2>15+</h2><sub>AÑOS EN NEGOCIOS<br/>REALES</sub></td>
+    <td align="center" width="190"><h2>4</h2><sub>WEBS PARA<br/>CLIENTES</sub></td>
+    <td align="center" width="190"><h2>3</h2><sub>PROYECTOS<br/>CON IA</sub></td>
+    <td align="center" width="190"><h2>411</h2><sub>COMMITS EN<br/>EQUIPO</sub></td>
+  </tr>
+</table>
 
-## 🛠️ My toolbox
+<br/>
 
-### 🤖 AI & Automation
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white"/>
-</p>
+<!-- ════════════════════════ SERVICIOS ════════════════════════ -->
+## Qué hago
 
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
+#### ⚡ Automatización
+Flujos con **n8n** y **Make** que conectan formularios, hojas de cálculo, email y APIs, con reglas de negocio y ramas condicionales.
 
-### 🗄️ Data & Deploy
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-</p>
+<sub>`recibir → clasificar → registrar → notificar`</sub>
 
----
+</td>
+<td width="33%" valign="top">
 
-## 📊 My GitHub in numbers
+#### 🧠 IA aplicada
+Agentes y asistentes con **Claude**, **OpenAI** y **Gemini** que atienden clientes, recomiendan productos y sugieren decisiones con datos reales.
+
+<sub>`agentes · prompt engineering · APIs`</sub>
+
+</td>
+<td width="33%" valign="top">
+
+#### 🌐 Webs y e-commerce
+Webs, tiendas online y paneles con **React** y **Python**, con pagos con **Stripe**, gestión de stock y despliegue en Vercel.
+
+<sub>`React · FastAPI · Flask · Stripe`</sub>
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub><b>CÓMO TRABAJO</b> &nbsp;·&nbsp; detectar el cuello de botella → prototipo funcional en días → medir → iterar</sub></p>
+
+<br/>
+
+<!-- ════════════════════════ PROYECTO DESTACADO ════════════════════════ -->
+## Proyecto destacado
+
+### [Automatización de solicitudes de clientes](https://github.com/ErwinGonzalezBonilla/n8n-gestion-solicitudes-clientes)
+
+![En construcción](https://img.shields.io/badge/EN_CONSTRUCCIÓN-D29922?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-161B22?style=flat-square&logo=n8n&logoColor=00E5FF) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-161B22?style=flat-square&logo=googlesheets&logoColor=00E5FF) ![Gmail](https://img.shields.io/badge/Gmail-161B22?style=flat-square&logo=gmail&logoColor=00E5FF)
+
+Un flujo en **n8n** que elimina el trabajo manual de recibir, revisar y organizar las solicitudes de clientes.
+
+```mermaid
+flowchart LR
+    A["📝 Formulario<br/>datos · servicio · presupuesto"] --> B{"💶 Presupuesto<br/>≥ 300 €"}
+    B -- Sí --> C["⭐ Prioritaria"]
+    B -- No --> D["📋 Estándar"]
+    C -.-> E[("📊 Google Sheets")]
+    D -.-> E
+    C -.-> F["📧 Email a negocio<br/>y cliente"]
+    D -.-> F
+
+    classDef base fill:#0D1117,stroke:#2B3540,color:#E6EDF3
+    classDef hot fill:#0D1117,stroke:#00E5FF,color:#E6EDF3
+    class A,C,D,E,F base
+    class B hot
+```
+
+<sub>Línea continua: funcionando y probado con datos de prueba · Línea punteada: integración en curso</sub>
+
+| Objetivo | Cómo | Estado |
+|:---|:---|:---|
+| Menos trabajo manual al gestionar solicitudes | Nodo **IF** con regla de negocio por presupuesto (≥ 300 €) | ✅ Validado con datos de prueba |
+| Un registro central | **Google Sheets** como base de datos de solicitudes | 🔧 Integración en curso |
+| Respuesta inmediata | **Email automático** al negocio y al cliente | 🔧 Integración y pruebas end-to-end |
+
+<br/>
+
+<!-- ════════════════════════ PROYECTOS ════════════════════════ -->
+## Proyectos
+
+<table>
+<tr>
+<td colspan="2" valign="top">
+
+### 📦 [MyStock](https://github.com/ErwinGonzalezBonilla/MyStock) &nbsp;<img src="https://img.shields.io/badge/EN_CONSTRUCCIÓN-D29922?style=flat-square" alt="En construcción"/>
+
+El software que me habría gustado tener en la tienda: **inventario, punto de venta, compras, clientes y proveedores** en un solo sitio. Incluye un **asistente de IA** que sugiere qué reponer y **automatizaciones con n8n** para las tareas repetitivas.
+
+<sub>**Arquitectura** React → FastAPI → PostgreSQL → IA → n8n &nbsp;·&nbsp; **Seguridad** multi-tenant con JWT &nbsp;·&nbsp; **Producto** docs, roadmap y changelog</sub>
+
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/OpenAI-161B22?style=flat-square&logo=openai&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/n8n-161B22?style=flat-square&logo=n8n&logoColor=00E5FF"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎤 [Kevin Alva](https://github.com/ErwinGonzalezBonilla/kevin-alva-web)
+<img src="https://img.shields.io/badge/OPERATIVO-2EA043?style=flat-square"/> <img src="https://img.shields.io/badge/CLIENTE_REAL-161B22?style=flat-square"/>
+
+Web de artista con **venta de entradas automatizada**: pago con Stripe → QR firmado (HMAC-SHA256) → validación en puerta.
+
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/Stripe-161B22?style=flat-square&logo=stripe&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=00E5FF"/>
+
+**[Ver web →](https://www.kevinalvamusic.com)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎈 [Ballonette](https://github.com/ErwinGonzalezBonilla/ballonette-react)
+<img src="https://img.shields.io/badge/OPERATIVO-2EA043?style=flat-square"/> <img src="https://img.shields.io/badge/CLIENTE_REAL_·_IA-161B22?style=flat-square"/>
+
+Web de eventos con galería, panel de administración y **BalloonBot**, un asistente con OpenAI que atiende a los clientes.
+
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/Cloudinary-161B22?style=flat-square&logo=cloudinary&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/OpenAI-161B22?style=flat-square&logo=openai&logoColor=00E5FF"/>
+
+**[Ver web →](https://ballonette.com)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐶 Don Dog · Tienda online
+<img src="https://img.shields.io/badge/EN_CONSTRUCCIÓN-D29922?style=flat-square"/> <img src="https://img.shields.io/badge/CLIENTE_REAL_·_IA-161B22?style=flat-square"/>
+
+Tienda para un pet shop con catálogo, carrito, **control de stock y pedidos**, y el bot **"El Don"**, que recomienda productos según la mascota y el stock disponible.
+
+</td>
+<td width="50%" valign="top">
+
+### 💌 [Invitaciones](https://github.com/ErwinGonzalezBonilla/generador-invitaciones)
+<img src="https://img.shields.io/badge/OPERATIVO-2EA043?style=flat-square"/> <img src="https://img.shields.io/badge/USO_PÚBLICO-161B22?style=flat-square"/>
+
+Rellenas → vista previa → envío por WhatsApp. **Sin backend:** toda la invitación viaja en la URL.
+
+<img src="https://img.shields.io/badge/HTML-161B22?style=flat-square&logo=html5&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/CSS-161B22?style=flat-square&logo=css3&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=00E5FF"/>
+
+**[Crear invitación →](https://generador-invitaciones.vercel.app)**
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🐾 [Patitas Club](https://github.com/4GeeksAcademy/PatitasClub) &nbsp;<img src="https://img.shields.io/badge/COMPLETADO-2EA043?style=flat-square"/> <img src="https://img.shields.io/badge/EQUIPO_·_411_COMMITS-161B22?style=flat-square"/>
+
+E-commerce para mascotas con API REST en Flask, login con JWT y pagos con Stripe. Proyecto final en equipo en 4Geeks Academy.
+
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/Flask-161B22?style=flat-square&logo=flask&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/SQLAlchemy-161B22?style=flat-square&logo=sqlalchemy&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/Stripe-161B22?style=flat-square&logo=stripe&logoColor=00E5FF"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ════════════════════════ STACK ════════════════════════ -->
+## Stack
+
+| | |
+|:---|:---|
+| **Automatización** | <img src="https://img.shields.io/badge/n8n-161B22?style=for-the-badge&logo=n8n&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/Make-161B22?style=for-the-badge&logo=make&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/Webhooks-161B22?style=for-the-badge&logo=webhooks&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/Google_Sheets-161B22?style=for-the-badge&logo=googlesheets&logoColor=00E5FF"/> |
+| **IA** | <img src="https://img.shields.io/badge/OpenAI-161B22?style=for-the-badge&logo=openai&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/Claude-161B22?style=for-the-badge&logo=anthropic&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/Gemini-161B22?style=for-the-badge&logo=googlegemini&logoColor=00E5FF"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,bootstrap&theme=dark&perline=8" height="40"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs&theme=dark" height="40"/> |
+| **Datos** | <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" height="40"/> |
+| **Herramientas** | <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman&theme=dark" height="40"/> |
+| **Servicios** | <img src="https://img.shields.io/badge/Stripe-161B22?style=for-the-badge&logo=stripe&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/Cloudinary-161B22?style=for-the-badge&logo=cloudinary&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=00E5FF"/> |
+
+<br/>
+
+<!-- ════════════════════════ TRAYECTORIA ════════════════════════ -->
+## Trayectoria
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**ANTES**<br/>
+<sub>Caracas 🇻🇪 → Santiago 🇨🇱</sub>
+
+15+ años en inventario, compras, proveedores y equipos. Entiendo cómo funciona un negocio por dentro y dónde se pierde el tiempo.
+
+</td>
+<td width="33%" valign="top">
+
+**AHORA**<br/>
+<sub>Madrid 🇪🇸 · 2025 →</sub>
+
+Formación Full Stack en 4Geeks Academy. Automatizo con **n8n**, integro **IA** y construyo webs para clientes reales.
+
+</td>
+<td width="33%" valign="top">
+
+**PRÓXIMO**<br/>
+<sub>En curso</sub>
+
+Primer rol en automatización o desarrollo. Preparando **AWS Cloud Practitioner**.
+
+`███████░░░ 70%`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ════════════════════════ ACTIVIDAD ════════════════════════ -->
+## Actividad en GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ErwinGonzalezBonilla&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=ErwinGonzalezBonilla&theme=radical&hide_border=true" alt="Streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ErwinGonzalezBonilla&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&locale=es&hide_rank=true" alt="Estadísticas"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErwinGonzalezBonilla&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&locale=es" alt="Lenguajes"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ErwinGonzalezBonilla&theme=react-dark&hide_border=true&area=true" alt="Activity graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ErwinGonzalezBonilla&bg_color=0D1117&color=8B949E&title_color=00E5FF&line=00E5FF&point=FFFFFF&area=true&area_color=00E5FF&hide_border=true&radius=8" alt="Actividad"/>
 </p>
 
----
+<br/>
 
-## 🌱 Right now...
-
-✨ Building **MyStock** step by step
-📚 Learning AI agents with n8n
-☕ Drinking way too much coffee
-🤝 Looking for my first developer opportunity. **Let's talk!**
-
----
-
+<!-- ════════════════════════ CONTACTO ════════════════════════ -->
 <p align="center">
-  💡 <i>“Building solutions, writing code and growing professionally.”</i> 💡
+  <b>¿Tienes un proceso que se repite cada día?</b><br/>
+  <sub>Probablemente se puede automatizar. Hablemos.</sub>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/erwingonzalezbonilla"><img src="https://img.shields.io/badge/Escríbeme_por_LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0B0F14" alt="LinkedIn"/></a>
+  <a href="mailto:alexcultural@gmail.com"><img src="https://img.shields.io/badge/Enviar_email-161B22?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email"/></a>
+  <a href="https://portafolio-erwin.vercel.app/"><img src="https://img.shields.io/badge/Ver_portafolio-161B22?style=for-the-badge&logo=vercel&logoColor=00E5FF" alt="Portafolio"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F14,50:00E5FF,100:0B0F14&height=2&section=footer" width="100%"/>

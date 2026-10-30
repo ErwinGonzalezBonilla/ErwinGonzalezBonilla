@@ -10,7 +10,6 @@
   <a href="https://www.linkedin.com/in/erwingonzalezbonilla"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:alexcultural@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/📍_Madrid-Open_to_work-2ECC71?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=ErwinGonzalezBonilla&label=Visitors&color=blueviolet&style=for-the-badge" alt="visitors"/>
 </p>
 
 ---
@@ -48,7 +47,7 @@ My most ambitious project: a platform that helps small businesses manage **inven
 <td width="50%" valign="top">
 
 ### 🎈 [Ballonette](https://github.com/ErwinGonzalezBonilla/ballonette-react)
-<img src="https://img.shields.io/badge/✅_Live-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/💼_Real_client-FF6B9D?style=flat-square"/>
+<img src="https://img.shields.io/badge/📦_Delivered_to_client-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/💼_Real_client-FF6B9D?style=flat-square"/>
 
 Website for a **balloon and events company** 🎉 Category-based gallery, admin panel that uploads photos to Cloudinary, and **BalloonBot**, an OpenAI chatbot that talks to customers 💬
 
@@ -71,14 +70,14 @@ Online **pet store** 🐶🐱 Bootcamp final project with JWT login, a Flask RES
 </td>
 <td width="50%" valign="top">
 
-### 🎤 [Kevin Alva · Official website](https://github.com/ErwinGonzalezBonilla/kevin-alva-web)
-<img src="https://img.shields.io/badge/✅_Live-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/💼_Real_client-FF6B9D?style=flat-square"/>
+### 🎤 [Kevin Alva · Website + ticket sales](https://github.com/ErwinGonzalezBonilla/kevin-alva-web)
+<img src="https://img.shields.io/badge/📦_Delivered_·_Live-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/💳_Stripe_payments-635BFF?style=flat-square"/>
 
-Website for a **music artist** 🎶 Tour dates that **hide themselves once they've passed**, discography, Spotify, YouTube and booking form. The client updates it without touching the code! 🎸
+Official website for a **music artist** 🎶 on his own domain, with tour dates, discography, Spotify and YouTube. Plus a **ticketing system**: fans pay with **Stripe** (card, Apple Pay, Google Pay), get a ticket with a **signed QR code** 🎟️ and staff scan it at the door with their phone camera 📱
 
-🟠 HTML · 🔵 CSS · 🟡 JavaScript · ▲ Vercel
+🟡 JavaScript · 🟢 Node.js · ▲ Vercel Functions · 💳 Stripe Checkout · 🔐 HMAC-SHA256 · 📷 jsQR
 
-👉 **[Visit it here!](https://kevin-alva-web.vercel.app)**
+👉 **[kevinalvamusic.com](https://www.kevinalvamusic.com)**
 
 </td>
 </tr>
